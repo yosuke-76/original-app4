@@ -1,0 +1,17 @@
+.janken_btn {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+.janken_gu {
+  width: 30%;
+  border: 1px solid black;
+}
+.janken_choki {
+  width: 30%;
+  border: 1px solid black;
+}
+.janken_pa {
+  width: 30%;
+  border: 1px solid black;
+}
